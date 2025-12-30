@@ -9,7 +9,7 @@ I design and build **production-grade systems** that integrate CRMs, ERPs, and t
 ## 🚀 Professional Summary
 
 - 🔹 **5+ years** of real-world experience in **web development, CRM automation, and API integrations**
-- 🔹 **HubSpot Certified Expert** with deep hands-on experience in **Deals, Line Items, Workflows, Custom Objects, and Private Apps**
+- 🔹 **HubSpot Certified Expert** with deep hands-on experience in **Deals, Line Items, Workflows, Custom Objects, Private Apps, Marketplace APPs, UI Extension usign React & NodeJS **
 - 🔹 Proven track record integrating **HubSpot ↔ CIN7, Shopify, ServiceM8, Twilio, Mautic, Xero, and custom ERPs**
 - 🔹 Strong focus on **data integrity, idempotent syncs, rate-limit safe APIs, and fault-tolerant workflows**
 
